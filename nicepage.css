@@ -33730,6 +33730,11 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 165px;
   }
 
+  .u-header .u-image-1 {
+    width: auto;
+    height: auto;
+  }
+
   .u-header .u-social-icons-1 {
     margin-top: -45px;
     margin-right: 43px;
